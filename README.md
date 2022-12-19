@@ -9,7 +9,7 @@ Structura:
 - 1.2.1 Construcția
 - 1.2.2 Modul de funcționare
 - 1.2.3 Utilizarea
-- 1.3 Evolutia baloanelor cu aer cald. Alte gaze
+- 1.3 Evoluția baloanelor cu aer cald. Alte gaze
 - 1.4 Apariția primul aerostat
 - 1.4.1 Dezvoltarea aerostatelor
 - 1.4.2 Impactul aerostatelor în război
@@ -25,7 +25,7 @@ Structura:
 - 1.5.4 Concluzie. Eficienta
 - 1.6 Dezvoltarea aerostatelor în zilele noastre. Concepte. Viitorul acestora
 
-## Capitolul 2. Fizica aerostatului
+# Capitolul 2. Fizica aerostatului
 
 - 2.1 Principiul lui Arhimede
 - 2.2 Exemple de calcul a fortei ascensionale
