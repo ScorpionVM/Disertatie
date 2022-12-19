@@ -1,0 +1,100 @@
+:root {
+    --font-size: 12pt;
+    --line-spacing-height: 150%; 
+}
+
+@page {
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 1.5cm;
+    margin-right: 1cm;
+}
+
+* {
+    font-family: 'Liberation Serif', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 14pt;
+    margin-top: calc(var(--font-size)*4);
+    margin-bottom: calc(var(--font-size)*5);
+    page-break-before: always;
+}
+
+h2 {
+    font-size: 13pt;
+    margin-top: calc(var(--font-size)*3);
+    margin-bottom: calc(var(--font-size)*4);
+}
+
+h3 {
+    font-size: 12pt;
+    margin-top: calc(var(--font-size)*2);
+    margin-bottom: calc(var(--font-size)*3);
+}
+
+h4 {
+    font-size: 11pt;
+    margin-top: calc(var(--font-size)*1);
+    margin-bottom: calc(var(--font-size)*2);
+}
+
+p {
+    font-size: var(--font-size);
+    text-align: justify;
+    line-height: var(--line-spacing-height);
+    text-indent: 0.5cm;
+}
+
+li {
+    text-align: justify;
+    line-height: var(--line-spacing-height);
+}
+
+li p {
+    text-indent: none;
+}
+
+.figure {
+    margin: auto;
+    margin-top: var(--font-size);
+    margin-bottom: var(--font-size);
+}
+
+.figure p {
+    text-align: center;
+}
+
+.figure p:nth-of-type(2) {
+    font-style: italic;
+}
+
+.figure p:nth-of-type(2) b {
+    font-style: normal;
+    font-weight: bold;
+}
+
+
+.figure img {
+    margin: auto;
+}
+
+.equation {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    margin-top: var(--font-size);
+    margin-bottom: var(--font-size);
+}
+
+.equation p:nth-of-type(2) {
+    margin-right: 0;
+    margin-left: auto;
+}
