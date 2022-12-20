@@ -70,6 +70,10 @@ p + li {
     margin-bottom: var(--font-size);
 }
 
+.figure * {
+    text-indent: 0px !important;
+}
+
 .figure p {
     text-align: center;
     text-indent: none;
@@ -90,7 +94,10 @@ p + li {
 
 .figure p:nth-of-type(2) {
     font-style: italic;
-    margin-bottom: calc(-1*var(--font-size));
+}
+
+.figure p:nth-of-type(3) {
+    margin-top: calc(-1*var(--font-size));
 }
 
 .figure p:nth-of-type(2) b {
@@ -111,9 +118,154 @@ p + li {
     margin: auto;
     margin-top: var(--font-size);
     margin-bottom: var(--font-size);
+    padding: 0;
+    /* border: dashed 1px black; */
+}
+
+.equation * {
+    margin: 0;
+    padding: 0;
+    text-indent: 0px !important;
+}
+
+.equation p:nth-of-type(1) {
+    /* border: solid 1px black; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+
+.equation p:nth-of-type(1) * {
+    word-wrap: break-word;
 }
 
 .equation p:nth-of-type(2) {
+    /* border: solid 1px red; */
+    display: block;
     margin-right: 0;
-    margin-left: auto;
+    width: 40px;
+    text-align: right;
+}
+
+.table {
+    width: 100%;
+    margin: none;
+    padding: 0;
+}
+
+.table table {
+    margin: auto;
+    width: 100%;
+}
+
+.table table th,
+.table table td {
+    border: solid 1px black;
+}
+
+/* custom style */
+.col-center table th,
+.col-center table td {
+    text-align: center;
+}
+
+.col-1-left table tr th:nth-of-type(1),
+.col-1-left table tr td:nth-of-type(1) {
+    text-align: left;
+}
+
+.col-1-center table tr th:nth-of-type(1),
+.col-1-center table tr td:nth-of-type(1) {
+    text-align: center;
+}
+
+.col-1-right table tr th:nth-of-type(1),
+.col-1-right table tr td:nth-of-type(1) {
+    text-align: right;
+}
+
+.col-2-left table tr th:nth-of-type(2),
+.col-2-left table tr td:nth-of-type(2) {
+    text-align: left;
+}
+
+.col-2-center table tr th:nth-of-type(2),
+.col-2-center table tr td:nth-of-type(2) {
+    text-align: center;
+}
+
+.col-2-right table tr th:nth-of-type(2),
+.col-2-right table tr td:nth-of-type(2) {
+    text-align: right;
+}
+
+.col-3-left table tr th:nth-of-type(3),
+.col-3-left table tr td:nth-of-type(3) {
+    text-align: left;
+}
+
+.col-3-center table tr th:nth-of-type(3),
+.col-3-center table tr td:nth-of-type(3) {
+    text-align: center;
+}
+
+.col-3-right table tr th:nth-of-type(3),
+.col-3-right table tr td:nth-of-type(3) {
+    text-align: right;
+}
+
+.col-4-left table tr th:nth-of-type(4),
+.col-4-left table tr td:nth-of-type(4) {
+    text-align: left;
+}
+
+.col-4-center table tr th:nth-of-type(4),
+.col-4-center table tr td:nth-of-type(4) {
+    text-align: center;
+}
+
+.col-4-right table tr th:nth-of-type(4),
+.col-4-right table tr td:nth-of-type(4) {
+    text-align: right;
+}
+
+.col-5-left table tr th:nth-of-type(5),
+.col-5-left table tr td:nth-of-type(5) {
+    text-align: left;
+}
+
+.col-5-center table tr th:nth-of-type(5),
+.col-5-center table tr td:nth-of-type(5) {
+    text-align: center;
+}
+
+.col-5-right table tr th:nth-of-type(5),
+.col-5-right table tr td:nth-of-type(5) {
+    text-align: right;
+}
+
+.col-6-left table tr th:nth-of-type(6),
+.col-6-left table tr td:nth-of-type(6) {
+    text-align: left;
+}
+
+.col-6-center table tr th:nth-of-type(6),
+.col-6-center table tr td:nth-of-type(6) {
+    text-align: center;
+}
+
+.col-6-right table tr th:nth-of-type(6),
+.col-6-right table tr td:nth-of-type(6) {
+    text-align: right;
+}
+
+
+.tcenter {
+    text-align: center;
+}
+
+.scenter {
+    width: max-content;
+    margin: auto;
 }
