@@ -135,20 +135,25 @@ def calc_rho_umed(Pa, T):
     return pd/(Rd*T) + pv/(Rv*T)
 
 
-def calc_volum_necesar(F, rho):
+def calc_volum_necesar(F, rho_a, rho_g):
     """
     Utilizand legea lui Arhimede:
-    FA = rho * g * V
+    FA = (rho_a - rho_g) * g * V
     
     Unde :
 
     F : [N] - forta impusa \\
-    rho : [kg/m^3] - densitatea gazului \\
+    rho_* : [kg/m^3] - densitatea gazului \\
     g : [m/s^2] - constanta accelaratiei gravitationale \\
     V : [m^3] - volumul gazului
     """
-    V = F/(rho * g)
+    V = F/((rho_a - rho_g) * g)
     return V
+
+
+def calc_forta_ascensionala(rho_a, rho_g, V):
+    F = (rho_a-rho_g)*g*V
+    return F
 
 
 def main():
