@@ -28,5 +28,5 @@ Structura:
 # Capitolul 2. Fizica aerostatului
 
 - 2.1 Principiul lui Arhimede
-- 2.2 Exemple de calcul a fortei ascensionale
+- 2.2 Exemple de calcul a forței ascensionale
 - 2.3 Comportarea aerostatelor la vant lateral (formule. exemple de calcul)
