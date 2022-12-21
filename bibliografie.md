@@ -21,3 +21,5 @@
 <https://zn.ua/tech/dazhe-esli-sdelat-dirizhabl-neudachno-on-budet-letat-275550_.html>
 <https://en.wikipedia.org/wiki/Early_flying_machines>
 <https://www.history.navy.mil/browse-by-topic/exploration-and-innovation/airships-dirigibles.html>
+<https://svvaul.ru/nashi-resursy/knigi-onlajn/aerodinamika/538-prakticheskaya-aerodinamika>
+<https://studfile.net/rgtu-mati/kip-la/folder:3562/#860147>

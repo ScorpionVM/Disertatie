@@ -110,4 +110,6 @@ Se determină $V = \frac{F_a}{(\rho_a - \rho_g)\cdot g}$, unde $F_a = 10\div 300
 
 După cum și s-a așteptat, pozițiile sunt identice, cel mai mic volum este la hidrogen, iar cel mai mare la aerul încălzit la 50${}^\circ C$. Pe grafic se mai poate observa că la forțe ascensionale mari, aerul cu o temperatură de 50${}^\circ C$ este puțin eficient.
 
-## 2.3 Comportarea aerostatelor la vant lateral<br>formule. exemple de calcul
+## 2.3 Comportarea aerostatelor la vant lateral
+
+
