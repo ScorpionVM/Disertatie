@@ -10,6 +10,7 @@
 <https://en.wikipedia.org/wiki/Early_flying_machines>
 <https://en.wikipedia.org/wiki/Hot_air_balloon>
 <https://en.wikipedia.org/wiki/Wonder_of_the_Seas>
+<https://inhabitat.com/worlds-largest-bus-chinas-300-passenger-youngman-jnp6250g-set-to-serve-beijing-and-hangzhou/>
 <https://it.wikipedia.org/wiki/LZ_129_Hindenburg>
 <https://ro.abcdef.wiki/wiki/Density_of_air>
 <https://ro.wikipedia.org/wiki/Heliu>

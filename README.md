@@ -17,11 +17,8 @@ Structura:
 - 1.4.3.1 Istoria
 - 1.4.3.2 Parametrii fizici
 - 1.5 Comparatia cu alte tipuri de vehicule (Avantaje si Dezavantaje / la fiecare)
-- 1.5.1 Terestre
-- 1.5.2 Acvatice
-- 1.5.3 Aeriene
-- 1.5.4 Concluzie. Eficienta
-- 1.6 Dezvoltarea aerostatelor în zilele noastre. Concepte. Viitorul acestora
+- 1.5.1 Vehicule terestre, acvatice, aeriene
+- 1.5.2 Concluzie
 
 ## Capitolul 2. Fizica aerostatului
 
