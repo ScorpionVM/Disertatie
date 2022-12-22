@@ -60,8 +60,8 @@ def main():
     Caz 1: Calculul fortei ascensionale la volum impus pentru 4 tipuri de gaze
     """
 
-    V = [1, 10, 50, 100, 150, 300] # m3
-    Fa = {x: [calc_forta_ascensionala(rho_aer, Gaz[x], Vx) for Vx in V] for x in Gaz}
+    V = list(range(10, 301, 10)) # m3
+    Fa = {x: [calc_forta_ascensionala(rho_aer, Gaz[x], Vx) for Vx in V] for x in Gaz} # N
 
     graph("Forta ascensionala", V, Fa, ["V [m3]", "Fa [N]"], save="../figs/forta_ascensionala.png")
 
@@ -69,8 +69,8 @@ def main():
     Caz 2: Calculul volumului necesar la forta ascensionala impusa pentru 4 tipuri de gaze
     """
 
-    Fa = [10, 100, 500, 1000, 2000, 3000] # N
-    V = {x: [calc_volum_necesar(Fx, rho_aer, Gaz[x]) for Fx in Fa] for x in Gaz}
+    Fa = list(range(100, 3001, 100)) # N
+    V = {x: [calc_volum_necesar(Fx, rho_aer, Gaz[x]) for Fx in Fa] for x in Gaz} # m3
 
     graph("Volumul necesar", Fa, V, ["Fa [N]", "V [m3]"], save="../figs/volumn_necesar.png")
 

@@ -88,7 +88,16 @@ Se va efectua calculul pentru două cazuri, în ambele se va căuta cel mai efic
 
 ### *Cazul 1*
 
-Se determină $F_a = (\rho_a - \rho_g)\cdot g\cdot V$, unde $V = 1\div 300 ~~~ [\text{m}^3]$
+Se determină $F_a = (\rho_a - \rho_g)\cdot g\cdot V$, unde $V = 0\div 300 ~~~ [\text{m}^3]$
+
+```python
+def forta_ascensionala(rho_a, rho_g, V):
+    F = (rho_a-rho_g)*g*V
+    return F
+
+V = list(range(10, 301, 10)) # m3
+Fa = {x: [forta_ascensionala(rho_aer, Gaz[x], Vx) for Vx in V] for x in Gaz} # N
+```
 
 ::: figure
 ![forta_ascensionala](./figs/forta_ascensionala.png)
@@ -100,7 +109,16 @@ Se determină $F_a = (\rho_a - \rho_g)\cdot g\cdot V$, unde $V = 1\div 300 ~~~ [
 
 ### *Cazul 2*
 
-Se determină $V = \frac{F_a}{(\rho_a - \rho_g)\cdot g}$, unde $F_a = 10\div 3000 ~~~ [\text{N}]$
+Se determină $V = \frac{F_a}{(\rho_a - \rho_g)\cdot g}$, unde $F_a = 100\div 3000 ~~~ [\text{N}]$
+
+```python
+def volum_necesar(F, rho_a, rho_g):
+    V = F/((rho_a - rho_g) * g)
+    return V
+
+Fa = list(range(0, 3001, 100)) # N
+V = {x: [volum_necesar(Fx, rho_aer, Gaz[x]) for Fx in Fa] for x in Gaz} # m3
+```
 
 ::: figure
 ![volumn_necesar](./figs/volumn_necesar.png)
@@ -111,5 +129,3 @@ Se determină $V = \frac{F_a}{(\rho_a - \rho_g)\cdot g}$, unde $F_a = 10\div 300
 După cum și s-a așteptat, pozițiile sunt identice, cel mai mic volum este la hidrogen, iar cel mai mare la aerul încălzit la 50${}^\circ C$. Pe grafic se mai poate observa că la forțe ascensionale mari, aerul cu o temperatură de 50${}^\circ C$ este puțin eficient.
 
 ## 2.3 Comportarea aerostatelor la vant lateral
-
-
