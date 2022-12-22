@@ -96,8 +96,6 @@ Lucrările la dezvoltarea unui balon dirijabil (direcabil), numit în zilele noa
 
 În 1863, Solomon Andrews a zburat cu designul său *Aereon*, un dirijabil fără motor și controlabil în Perth Amboy, New Jersey. A zburat mai târziu în 1866 în jurul orașului New York și până la Oyster Bay, New York. Tehnica sa de alunecare sub gravitație funcționează prin schimbarea liftului pentru a oferi forță de propulsie pe măsură ce dirijabilul se ridică și se scufundă alternativ și, prin urmare, nu are nevoie de un motor. [https://en.wikipedia.org/wiki/Early_flying_machines]
 
-Succesul și entuziasmul inginerilor aduce la dezvoltarea baloanelor dirijabile de forme mai alungite, cu carcase rigide, cu capacitate mai mare care puteau ridica și menține în zbor toane de marfă și echipaje de pe 50 de persoane pe timp mai mare decât cateva ore.
-
 ::: figure
 ![zeppelin_lz_127](./images/Zeppelin_LZ127.jpg)
 
@@ -105,6 +103,8 @@ Succesul și entuziasmul inginerilor aduce la dezvoltarea baloanelor dirijabile 
 
 [https://en.wikipedia.org/wiki/LZ_127_Graf_Zeppelin]
 :::
+
+Succesul și entuziasmul inginerilor aduce la dezvoltarea baloanelor dirijabile de forme mai alungite, cu carcase rigide, cu capacitate mai mare care puteau ridica și menține în zbor toane de marfă și echipaje de pe 50 de persoane pe timp mai mare decât cateva ore.
 
 Un dirijabil modern după timpurile de atunci este *LZ 127 Graf Zeppelin* fig. 1.6 a fost o aeronavă rigidă germană care transporta pasageri, plină cu hidrogen, care a zburat din 1928 până în 1937. A oferit primul serviciu de zbor transatlantic comercial de pasageri. Numit după pionierul dirijabilului german Ferdinand von Zeppelin, conte în nobilimea germană, a fost conceput și operat de Dr. Hugo Eckener, președintele Luftschiffbau Zeppelin.
 [https://en.wikipedia.org/wiki/LZ_127_Graf_Zeppelin]
@@ -166,16 +166,66 @@ Având o popularitate sporită a fost folosit pentru propaganda nazistă având 
 |Material celule|din bumbac, impregnată cu oxid de fier și acetat butirat de celuloză, amestecată cu praf de aluminiu|
 :::
 
-## 1.5 Comparatia cu alte tipuri de vehicule
+## 1.5 Comparația cu alte tipuri de vehicule
 
-### 1.5.1 Terestre
+Deși mulți spun că epoca dirijabilelor s-a terminat acum câțiva zeci de ani în urmă, totuși mulți amatori și companii de produse, continuă să dezvolte această tehnologie cu materiale și cunoștințe noi. De la utilizarea aeronavelor de armată, dirijbilele și-au găsit loc de utilizare și în alte domenii. Modele mai mici legate de autoturizme sunt ridicate în zbor cu echipamente radar, telecomunicație pentru a furniza semnal în locuri mai greu accesibile, topografiere și multe altele. Comercializarea acestor aparate de zbor permite evoluția, lentă, dar sigură.
 
-### 1.5.2 Acvatice
+În perioada când avioanele pot transporta mii de pasageri dintr-un singur zbor, camioane care trasportă zilnic zeci de mii de toane de marfă, vapoare de cruazieră și marfă cu mii de oameni la bord, chiar și acum există persoane care se uită cu regret la mersul lent al evoluției aerostatelor. Cum și alte tipuri de vehicule așa și aerostatele au avatajele și dezavatajele sale.
 
-### 1.5.3 Aeriene
+Mai jos se va efectua o comparație dintre aerostatul 
 
 ::: table
 Tabel 4. Caracteristicele principale
+
+|Parametru|Detalii|
+|---|---|
+|Echipaj|1|
+|Pasageri|300, (40 locuri)|
+|Lungime|25 [m]|
+|Lățime|2.2 [m]|
+|Înălțime|2.5 [m]|
+|Viteza de cruazieră|80 [km/h]|
+:::
+
+::: figure
+![Youngman JNP6250G](./images/Youngman-JNP6280G-Bus.jpg)
+
+**Fig. 1.9** Youngman JNP6250G megabus
+
+[https://www.innfinity.in/limitless/biggest-bus-in-the-world/]
+:::
+
+### 1.5.2 Acvatice
+
+*Wonder of the Seas* fig. 1.9, este nava amiral a *"Royal Caribbean International"*. Ea a fost finalizată în 2022 în șantierul naval Chantiers de l'Atlantique din Saint-Nazaire, Franța, al cincilea din clasa de nave de croazieră Oasis din Royal Caribbean. Cu 236.857 GT, este cea mai mare navă de croazieră din lume după tonaj brut, depășind nava ei sora *Symphony of the Seas*, deținută și de Royal Caribbean International.[6]
+
+::: table
+Tabel 4. Caracteristicele principale
+
+|Parametru|Detalii|
+|---|---|
+|Greutatea utilă|236.857 [GT]|
+|Lungime|362.04 [m]|
+|Propulsia|3 × 20 MW (27,000 [cp]), 4 × 5.5 MW (7,400 [cp]) Wärtsilä CT3500|
+|Viteza de cruazieră|41 [km/h]|
+|Pasageri|5734, 6988 maxim|
+|Echipaj|2300|
+:::
+
+::: figure
+![Youngman JNP6250G](./images/cruise-700x469.jpg)
+
+**Fig. 1.9** Wonder of the Seas
+
+[https://www.boatsafe.com/biggest-ship-in-the-world/]
+:::
+
+### 1.5.3 Aeriene
+
+*Airbus A308* fig. 1. este un avion care a fost dezvoltat și produs de Airbus, ca fiind cel mai mare avion de pasageri din lume și singurul avion cu reacție cu două etaje de lungime completă. Studiile Airbus au început în 1988, iar proiectul a fost anunțat în 1990 pentru a contesta dominația Boeing 747 pe piața curselor lungi. Proiectul A3XX desemnat atunci a fost prezentat în 1994. Airbus a lansat programul A380 de 9.5  miliarde EUR pe 19 decembrie 2000. Primul prototip a fost dezvăluit la Toulouse pe 18 ianuarie 2005, primul său zbor pe 27 aprilie 2005. Apoi a obținut certificatul său de tip de la Agenția Europeană pentru Siguranța Aviației. (EASA) și Administrația Federală a Aviației (FAA) din SUA la 12 decembrie 2006. Din cauza dificultăților legate de cablarea electrică, producția inițială a fost întârziată cu doi ani, iar costurile de dezvoltare aproape s-au dublat.
+
+::: table
+Tabel 1.4 Caracteristicele principale
 
 |Parametru|Detalii|
 |---|---|
@@ -189,9 +239,9 @@ Tabel 4. Caracteristicele principale
 |Înălțime| 24.09 [m]|
 |Greutate aeronavă| 285000 [kg]|
 |Capacitate combustibil| 323546 [litri]|
-|Viteza de cruazieră| 903 km/h / Mach 0.85|
-|Distanță| 14800 [km]|
+|Viteza de cruazieră|903 [km/h] / Mach 0.85|
 |Viteza de decolare|256 [km/h]|
+|Distanță| 14800 [km]|
 :::
 
 ::: figure
@@ -203,5 +253,7 @@ Tabel 4. Caracteristicele principale
 :::
 
 ### 1.5.4 Concluzie. Eficienta
+
+Chiar dacă aerostatele pierd poziția pe unele direcții, totuși au multe avataje economice. Aerostatele nu au nevoie de piste lungi de decolare și aterizare, nu au nevoie de autostrăzi și de porturi mari. Materialele din care sunt confecționate arostatele sunt mai ieftine.
 
 ## 1.6 Dezvoltarea aerostatelor în zilele noastre. Concepte. Viitorul acestora

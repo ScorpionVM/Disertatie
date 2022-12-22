@@ -23,7 +23,7 @@ Structura:
 - 1.5.4 Concluzie. Eficienta
 - 1.6 Dezvoltarea aerostatelor în zilele noastre. Concepte. Viitorul acestora
 
-# Capitolul 2. Fizica aerostatului
+## Capitolul 2. Fizica aerostatului
 
 - 2.1 Principiul lui Arhimede
 - 2.2 Exemple de calcul a forței ascensionale

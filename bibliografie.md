@@ -1,11 +1,15 @@
-# Bibliografie
+<head><link rel='stylesheet' href='./assets/style.css'></head>
+
+## Bibliografie
 
 <http://aeronatc.ru/podrobno>
 <http://rulibs.com/ru_zar/child_education/infantev/0/j6.html>
 <http://www.aerostudents.com/courses/intro-to-aerospace-1/aerodynamics-and-aircraft-limits.pdf>
 <http://www.myshared.ru/slide/308524/>
+<https://en.wikipedia.org/wiki/Bi-articulated_bus>
 <https://en.wikipedia.org/wiki/Early_flying_machines>
 <https://en.wikipedia.org/wiki/Hot_air_balloon>
+<https://en.wikipedia.org/wiki/Wonder_of_the_Seas>
 <https://it.wikipedia.org/wiki/LZ_129_Hindenburg>
 <https://ro.abcdef.wiki/wiki/Density_of_air>
 <https://ro.wikipedia.org/wiki/Heliu>
@@ -16,6 +20,7 @@
 <https://studfile.net/rgtu-mati/kip-la/folder:3562/#860147>
 <https://svvaul.ru/nashi-resursy/knigi-onlajn/aerodinamika/538-prakticheskaya-aerodinamika>
 <https://www.airships.net/hindenburg/hindenburg-design-technology/>
+<https://www.boatsafe.com/biggest-ship-in-the-world/>
 <https://www.britannica.com/technology/balloon-flight/Hot-air-ballooning>
 <https://www.engineeringtoolbox.com/helium-d_1418.html>
 <https://www.history.navy.mil/browse-by-topic/exploration-and-innovation/airships-dirigibles.html>

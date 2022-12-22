@@ -173,6 +173,11 @@ p + li {
     border: solid 1px black;
 }
 
+.borderless * {
+    border: none !important;
+}
+
+
 /* custom style */
 .col-center table th,
 .col-center table td {
