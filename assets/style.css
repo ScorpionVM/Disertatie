@@ -4,10 +4,12 @@
 }
 
 @page {
-    margin-top: 1cm;
-    margin-bottom: 1cm;
-    margin-left: 1.5cm;
-    margin-right: 1cm;
+    width: 210mm;
+    height: 297mm;
+    margin-top: 2.5cm;
+    margin-bottom: 1.5cm;
+    margin-left: 3cm;
+    margin-right: 2cm;
 }
 
 * {
@@ -84,8 +86,8 @@ p + li {
 
 .figure p:nth-of-type(1) {
     display: block;
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 450px;
+    max-height: 450px;
 
     margin: auto;
     margin-left: auto;
@@ -108,8 +110,8 @@ p + li {
 .figure p img {
     width: auto !important;
     height: auto !important;
-    min-width: 200px;
-    min-height: 200px;
+    min-width: 250px;
+    min-height: 250px;
 }
 
 .equation {
@@ -152,6 +154,13 @@ p + li {
     width: 100%;
     margin: none;
     padding: 0;
+}
+
+.table p:nth-of-type(1) {
+    width: max-content;
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: calc(-0.18*var(--font-size));
 }
 
 .table table {

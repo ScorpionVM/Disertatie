@@ -16,8 +16,6 @@ Structura:
 - 1.4.3 Aerostatul Hindenburg
 - 1.4.3.1 Istoria
 - 1.4.3.2 Parametrii fizici
-- 1.4.3.3 Utilizarea si dezvoltarea
-- 1.4.3.4 Explozia aerostatului
 - 1.5 Comparatia cu alte tipuri de vehicule (Avantaje si Dezavantaje / la fiecare)
 - 1.5.1 Terestre
 - 1.5.2 Acvatice

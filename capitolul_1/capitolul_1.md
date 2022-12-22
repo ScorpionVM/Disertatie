@@ -8,8 +8,6 @@ Aerostatul a fost conceput după ideea balonului cu aer cald, care la timpul să
 
 ## 1.2 Balonul cu aer cald
 
-Ideea de balon cu aer cald sau cu alt gaz mai ușor ca aerul în istorie apare încă din anii 1700, însă primul balon cu aer cald *fig. 1.1* fără echipaj și alte echipamente a fost prezentat în Franța de frații *Montgolfier* pe 19 septembrie 1783, zborul a durat 10 min. Primul zbor cu participarea omului, a fost un zbor *legat* și a avut loc în jurul lunii octombrie 1783.
-
 ::: figure
 ![montgolfier_ballon](./images/Montgolfier_Balloon.JPG)
 
@@ -17,6 +15,8 @@ Ideea de balon cu aer cald sau cu alt gaz mai ușor ca aerul în istorie apare �
 
 [https://en.wikipedia.org/wiki/File:Montgolfier_Balloon.JPG]
 :::
+
+Ideea de balon cu aer cald sau cu alt gaz mai ușor ca aerul în istorie apare încă din anii 1700, însă primul balon cu aer cald *fig. 1.1* fără echipaj și alte echipamente a fost prezentat în Franța de frații *Montgolfier* pe 19 septembrie 1783, zborul a durat 10 min. Primul zbor cu participarea omului, a fost un zbor *legat* și a avut loc în jurul lunii octombrie 1783.
 
 ### 1.2.1 Construcția
 
@@ -62,8 +62,6 @@ Baloanele cu aer cald sunt utilizate în mod obișnuit în scopuri recreative. P
 [https://media.bizj.us/view/img/12199850/balloonride09*750xx4184-2354-0-218.jpg]
 :::
 
-Competițiile cu baloane pot consta doar din câteva baloane pentru o ieșire de o zi sau până la câteva sute de baloane pentru un festival de o săptămână. Evenimentele competitive includ *parcurgerea unei distanțe într-un interval de timp*, *aterizarea în țintă* și cursele *"iepuri și câini"*. Cursele de *iepuri și câini* sunt ușor de organizat și judecat, deoarece necesită un singur balon cu rol de iepure (iepure de câmp) care se lansează primul și parcurge o distanță rezonabilă. Concurenții încearcă să aterizeze cât mai aproape de locația de aterizare a iepurilor. La festivale mari cu aglomerație de sute de baloane participante, pentru a evita cazuri nedorite sunt aruncate marcaje care simulează aterizările și se recomandă ca baloanele cu rol de *"iepure"* să zboare spre locații mai deschise.
-
 ::: figure
 ![hare_and_hound](./images/hare_and_hound_racing.jpeg)
 
@@ -71,6 +69,8 @@ Competițiile cu baloane pot consta doar din câteva baloane pentru o ieșire de
 
 [https://i.pinimg.com/originals/bf/bf/19/bfbf198fb48968ea5e1315bb40428884.jpg]
 :::
+
+Competițiile cu baloane pot consta doar din câteva baloane pentru o ieșire de o zi sau până la câteva sute de baloane pentru un festival de o săptămână. Evenimentele competitive includ *parcurgerea unei distanțe într-un interval de timp*, *aterizarea în țintă* și cursele *"iepuri și câini"*. Cursele de *iepuri și câini* sunt ușor de organizat și judecat, deoarece necesită un singur balon cu rol de iepure (iepure de câmp) care se lansează primul și parcurge o distanță rezonabilă. Concurenții încearcă să aterizeze cât mai aproape de locația de aterizare a iepurilor. La festivale mari cu aglomerație de sute de baloane participante, pentru a evita cazuri nedorite sunt aruncate marcaje care simulează aterizările și se recomandă ca baloanele cu rol de *"iepure"* să zboare spre locații mai deschise.
 
 ## 1.3 Evoluția baloanelor cu aer cald. Alte gaze
 
@@ -123,6 +123,12 @@ Aerostatele au jucat un rol important în primul război mondial. Au fost folosi
 
 ### 1.4.3 Aerostatul Hindenburg
 
+#### 1.4.3.1 Istoria
+
+În timpul Primului Război Mondial, germanii au obținut un succes moderat în operațiunile de bombardare cu rază lungă de acțiune cu dirijabilul rigid de tip zeppelin, care putea atinge altitudini mai mari decât avioanele disponibile atunci. De două ori în 1917, zeppelinii germani au efectuat zboruri cu o durată de aproape 100 de ore. Astfel de performanțe i-au făcut pe mulți oameni să creadă că dirijabilele mari vor juca un rol important în dezvoltarea aviației. O serie de zeppeline au fost distribuite țărilor aliate ca parte a reparațiilor postbelice ale Germaniei.
+
+Dirijabil german numit Hindenburg fig. 1.8, a fost cel mai mare dirijabil rigid construit vreodată. A fost construit după design convențional zeppelin. A fost lansat la Friedrichshafen, Germania, în martie 1936 și a fost primul dirijabil care a inaugurat serviciul aerian comercial peste Atlanticul de Nord transportând 1.002 de pasageri în 10 călătorii programate dus-întors între Germania și Statele Unite. Deși a fost proiectat pentru heliu, a fost umplut cu hidrogen din cauza restricțiilor de export impuse de Statele Unite împotriva Germaniei naziste.
+
 ::: figure
 ![akron](./images/hindenburg.jpg)
 
@@ -131,7 +137,71 @@ Aerostatele au jucat un rol important în primul război mondial. Au fost folosi
 [https://1.bp.blogspot.com/-tOI6XvzTC5M/T6m0awZPY3I/AAAAAAAAANY/87CTdAORc0M/s320/pb-120504-hindenburg-09_photoblog900.jpg]
 :::
 
-- 1.4.3.1 Istoria
-- 1.4.3.2 Parametrii fizici
-- 1.4.3.3 Utilizarea si dezvoltarea
-- 1.4.3.4 Explozia aerostatului
+Având o popularitate sporită a fost folosit pentru propaganda nazistă având pe stabilizatoarele din spate simbolistica nazistă. În data de 4 mai 1937 dirijabilul Hindenburg a luat foc și a fost distrus. În acest dezastru au murit 99 de persoane, din care pasagerii și echipajul acestuia. Ipoteza fiind scurgerea hidrogenului în atmosferă din cauza activiștilor anti-naziști care au sabotat dirijabilul. Această tragedie a pus punct în dezvoltarea dirijabilelor, ca fiind nesigure și pe lângă eficiența de trasport cu care nu se putea compara nici un avion, viteza de zbor era prea mică pentru trasportul rapid de pasageri și marfă care a jucat împotriva viitorului acestor aeronave.
+
+#### 1.4.3.2 Parametrii fizici
+
+::: table
+|Parametru|Date / Valoare [U.M.]|OBS.|
+|---|---|---|
+|Model|Zeppeline||
+|Structura|Rigidă||
+|Tip|Transportul de pasageri||
+|Greutate|118000 (kg)|greutatea aeronavei golă|
+|Echipaj|61||
+|Pasageri|50|după a fost modificat la 72 pasageri|
+|Greutatea utilă|60000 [kg]||
+|Lungime|246.7 [m]||
+|Diametru|41.2 [m]||
+|Construcția|15 inele principale, care legau 36 grinzi longitudinale|fiecare avea o chilă triunghiulară la fundul carenei|
+|Control|Manual și "auto pilot"|pilot automat - busolă giroscopică ce controla cârma, menținea nava pe curs și altitudine atribuite în timpul croazierei pe vreme stabilă|
+|Viteza maximă|135 [km/h]|
+|Viteza croazieră|126 [km/h]|
+|Motoare|4 motoare tip LOF-6 (DB-602)|1320 CP la 1650 RPM (putere maximă)|
+|Elice motoare|material - lemn, cu 4 pale|$\phi 19.7"$, create din 2 elice cu câte 2 pale|
+|Gaz proiectat|Heliu|A fost proiectat cu gaz heliu pentru siguranță|
+|Gaz utilizat|Hidrogen|A fost utlizat din cauza sancțiunilor de export|
+|Volumul total|200000 [m${}^3$]||
+|Celule de gaz|16|Cu 16 supape manuale și 16 automate|
+|Material celule|din bumbac, impregnată cu oxid de fier și acetat butirat de celuloză, amestecată cu praf de aluminiu|
+:::
+
+## 1.5 Comparatia cu alte tipuri de vehicule
+
+### 1.5.1 Terestre
+
+### 1.5.2 Acvatice
+
+### 1.5.3 Aeriene
+
+::: table
+Tabel 4. Caracteristicele principale
+
+|Parametru|Detalii|
+|---|---|
+|Echipaj|2 (cockpit)|
+|Pasageri|575 și 853 maxim|
+|Capacitate|175.2 [m${}^3$]|
+|Greutate utilă|84000 [kg]|
+|Lungime|72.72 [m]|
+|Wingspan|79.75 [m]|
+|Lățime| 7.14 [m]|
+|Înălțime| 24.09 [m]|
+|Greutate aeronavă| 285000 [kg]|
+|Capacitate combustibil| 323546 [litri]|
+|Viteza de cruazieră| 903 km/h / Mach 0.85|
+|Distanță| 14800 [km]|
+|Viteza de decolare|256 [km/h]|
+:::
+
+::: figure
+![a380](./images/A380_Emirates.jpg)
+
+**Fig. 1.** Airbus A380
+
+[https://en.wikipedia.org/wiki/Airbus_A380#Passenger_provisions]
+:::
+
+### 1.5.4 Concluzie. Eficienta
+
+## 1.6 Dezvoltarea aerostatelor în zilele noastre. Concepte. Viitorul acestora
