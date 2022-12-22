@@ -142,13 +142,15 @@ Având o popularitate sporită a fost folosit pentru propaganda nazistă având 
 #### 1.4.3.2 Parametrii fizici
 
 ::: table
+Tabel 1.1 Parametri dirijabil Hindenburg
+
 |Parametru|Date / Valoare [U.M.]|OBS.|
 |---|---|---|
 |Model|Zeppeline||
 |Structura|Rigidă||
 |Tip|Transportul de pasageri||
 |Greutate|118000 (kg)|greutatea aeronavei golă|
-|Echipaj|61||
+|Echipaj|40 până la 61||
 |Pasageri|50|după a fost modificat la 72 pasageri|
 |Greutatea utilă|60000 [kg]||
 |Lungime|246.7 [m]||
@@ -156,7 +158,7 @@ Având o popularitate sporită a fost folosit pentru propaganda nazistă având 
 |Construcția|15 inele principale, care legau 36 grinzi longitudinale|fiecare avea o chilă triunghiulară la fundul carenei|
 |Control|Manual și "auto pilot"|pilot automat - busolă giroscopică ce controla cârma, menținea nava pe curs și altitudine atribuite în timpul croazierei pe vreme stabilă|
 |Viteza maximă|135 [km/h]|
-|Viteza croazieră|126 [km/h]|
+|Viteza croazieră|122 [km/h]|
 |Motoare|4 motoare tip LOF-6 (DB-602)|1320 CP la 1650 RPM (putere maximă)|
 |Elice motoare|material - lemn, cu 4 pale|$\phi 19.7"$, create din 2 elice cu câte 2 pale|
 |Gaz proiectat|Heliu|A fost proiectat cu gaz heliu pentru siguranță|
@@ -170,12 +172,16 @@ Având o popularitate sporită a fost folosit pentru propaganda nazistă având 
 
 Deși mulți spun că epoca dirijabilelor s-a terminat acum câțiva zeci de ani în urmă, totuși mulți amatori și companii de produse, continuă să dezvolte această tehnologie cu materiale și cunoștințe noi. De la utilizarea aeronavelor de armată, dirijbilele și-au găsit loc de utilizare și în alte domenii. Modele mai mici legate de autoturizme sunt ridicate în zbor cu echipamente radar, telecomunicație pentru a furniza semnal în locuri mai greu accesibile, topografiere și multe altele. Comercializarea acestor aparate de zbor permite evoluția, lentă, dar sigură.
 
-În perioada când avioanele pot transporta mii de pasageri dintr-un singur zbor, camioane care trasportă zilnic zeci de mii de toane de marfă, vapoare de cruazieră și marfă cu mii de oameni la bord, chiar și acum există persoane care se uită cu regret la mersul lent al evoluției aerostatelor. Cum și alte tipuri de vehicule așa și aerostatele au avatajele și dezavatajele sale.
+### 1.5.1 Vehicule terestre, acvatice, aeriene
 
-Mai jos se va efectua o comparație dintre aerostatul 
+În perioada în care avioanele pot transporta mii de pasageri dintr-un singur zbor, camioane care trasportă zilnic zeci de mii de toane de marfă, vapoare de cruazieră și marfă cu mii de oameni la bord, chiar și acum există persoane care se uită cu regret la mersul lent al evoluției aerostatelor. Cum și alte tipuri de vehicule așa și aerostatele au avatajele și dezavatajele sale.
+
+Mai jos se va efectua o comparație dintre aerostatul *LZ 129 Hindenburg* cu parametrii tabel 1.1 și 3 vehicule din fiecare categorie. Comparația se va efectua superficial din motiv de diferența de tip, construcție și perioada de apariție.
+
+China a făcut un pas important în dezvoltarea transportului public prin crearea celui mai mare autobuz din lume *Youngman JNP6250G*. Megabusul Superliner este cu 13 metri mai lung decât autobuzele obișnuite de oraș și poate transporta până la 300 de pasageri într-o singură călătorie.
 
 ::: table
-Tabel 4. Caracteristicele principale
+Tabel 1.2 Parametri Youngman JNP6250G Bus
 
 |Parametru|Detalii|
 |---|---|
@@ -190,17 +196,17 @@ Tabel 4. Caracteristicele principale
 ::: figure
 ![Youngman JNP6250G](./images/Youngman-JNP6280G-Bus.jpg)
 
-**Fig. 1.9** Youngman JNP6250G megabus
+**Fig. 1.9** Youngman JNP6250G Bus
 
 [https://www.innfinity.in/limitless/biggest-bus-in-the-world/]
 :::
 
-### 1.5.2 Acvatice
+*Concluzie:* Utilizarea aerostatelor ca trasport public este dificil realizabil din motiv rentabil după timp și consum de combustibil și nu în ultimul timp controlul riscant printre clădiri. Desigur că pentru distanțe mici un dirijabil nu va putea manifesta întreaga putere și va ceda autobuzelor, însă transportul de pasageri între orașe va putea demonstra eficiența sa.
 
-*Wonder of the Seas* fig. 1.9, este nava amiral a *"Royal Caribbean International"*. Ea a fost finalizată în 2022 în șantierul naval Chantiers de l'Atlantique din Saint-Nazaire, Franța, al cincilea din clasa de nave de croazieră Oasis din Royal Caribbean. Cu 236.857 GT, este cea mai mare navă de croazieră din lume după tonaj brut, depășind nava ei sora *Symphony of the Seas*, deținută și de Royal Caribbean International.[6]
+*Wonder of the Seas* fig. 1.9, este nava amiral a *"Royal Caribbean International"*. Ea a fost finalizată în 2022 în șantierul naval Chantiers de l'Atlantique din Saint-Nazaire, Franța, al cincilea din clasa de nave de croazieră Oasis din Royal Caribbean. Cu 236.857 GT, este cea mai mare navă de croazieră din lume după tonaj brut, depășind nava ei sora *Symphony of the Seas*, deținută și de Royal Caribbean International.
 
 ::: table
-Tabel 4. Caracteristicele principale
+Tabel 1.3 Parametrii nava "Wonder of the Seas"
 
 |Parametru|Detalii|
 |---|---|
@@ -220,12 +226,12 @@ Tabel 4. Caracteristicele principale
 [https://www.boatsafe.com/biggest-ship-in-the-world/]
 :::
 
-### 1.5.3 Aeriene
+*Concluzie:* Cu gabaritele și greutatea unei nave de cruazieră, nu se poate compara deplin nici un aerostat sau alt tip de vehicul. Navele de cruazieră se pot numi "hotele pe apă total independente". Însă, în comparație cu un aerostat, nava de cruazieră are nevoie de port, pe când un aerostat se poate opri oriunde în caz de necesitate urgnetă.
 
 *Airbus A308* fig. 1. este un avion care a fost dezvoltat și produs de Airbus, ca fiind cel mai mare avion de pasageri din lume și singurul avion cu reacție cu două etaje de lungime completă. Studiile Airbus au început în 1988, iar proiectul a fost anunțat în 1990 pentru a contesta dominația Boeing 747 pe piața curselor lungi. Proiectul A3XX desemnat atunci a fost prezentat în 1994. Airbus a lansat programul A380 de 9.5  miliarde EUR pe 19 decembrie 2000. Primul prototip a fost dezvăluit la Toulouse pe 18 ianuarie 2005, primul său zbor pe 27 aprilie 2005. Apoi a obținut certificatul său de tip de la Agenția Europeană pentru Siguranța Aviației. (EASA) și Administrația Federală a Aviației (FAA) din SUA la 12 decembrie 2006. Din cauza dificultăților legate de cablarea electrică, producția inițială a fost întârziată cu doi ani, iar costurile de dezvoltare aproape s-au dublat.
 
 ::: table
-Tabel 1.4 Caracteristicele principale
+Tabel 1.4 Parametrii Airbus A380
 
 |Parametru|Detalii|
 |---|---|
@@ -252,8 +258,8 @@ Tabel 1.4 Caracteristicele principale
 [https://en.wikipedia.org/wiki/Airbus_A380#Passenger_provisions]
 :::
 
-### 1.5.4 Concluzie. Eficienta
+*Concluzie:* Desigur că comparând un avion modern cu un aerostat construit în anul 1936, s-ar crea impresia că aerostatele nu au nici măcar o mică șansă de reabilitare, totuși dacă s-ar proiecta un aerostat modern, există posibilitatea de a face o aeronavă care în medie ar fi mai eficientă decât multe avione de acum.
 
-Chiar dacă aerostatele pierd poziția pe unele direcții, totuși au multe avataje economice. Aerostatele nu au nevoie de piste lungi de decolare și aterizare, nu au nevoie de autostrăzi și de porturi mari. Materialele din care sunt confecționate arostatele sunt mai ieftine.
+### 1.5.2 Concluzie
 
-## 1.6 Dezvoltarea aerostatelor în zilele noastre. Concepte. Viitorul acestora
+În trecut aerostatele erau realizate cu toate necesitățile și comfort de înaltă calitate. La crearea aerostatelor moderne putem realiza ca sunt mai rentabile. Multe din vehicule nu sunt interschimbabile, fiecare avânt avataje și dezavantaje față de concurentul său din altă categorie, nici aici aerostatele nu trebuie neglijate, ele nu au nevoie de piste lungi de decolare și aterizare, nu au nevoie de autostrăzi și de porturi mari, nu necesită materiale scumpe și sute de ingineri pentru mentenanță.
