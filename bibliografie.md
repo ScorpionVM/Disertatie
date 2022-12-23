@@ -31,3 +31,6 @@
 <https://www.youtube.com/watch?v=AT7RoDZkwDo>
 <https://www.youtube.com/watch?v=fWc5QGFCaUc>
 <https://zn.ua/tech/dazhe-esli-sdelat-dirizhabl-neudachno-on-budet-letat-275550_.html>
+<http://www.langleyflyingschool.com/Pages/CPGS+4+Aerodynamics+and+Theory+of+Flight+Part+1.html>
+<https://znuerb.com/Simon/construc.html>
+<https://www.airshipsonline.com/airships/r101/index.html>
